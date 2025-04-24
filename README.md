@@ -34,8 +34,8 @@ npm test
 
 ## Примеры API-запросов
 
-GET /tasks - Получить все задачи
-GET /tasks/:id - Получить задачу по id
-POST /tasks - Создать новую задачу
-PUT /tasks/:id - Обновить задачу
-DELETE /tasks/:id - Удалить задачу
+- GET /tasks - Получить все задачи
+- GET /tasks/:id - Получить задачу по id
+- POST /tasks - Создать новую задачу
+- PUT /tasks/:id - Обновить задачу
+- DELETE /tasks/:id - Удалить задачу
